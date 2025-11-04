@@ -33,7 +33,7 @@
 ## 👥 Autores
 
 **FULL SERVICES S.A.S**  
-Desarrollo y diseño web por **JACOBO FORERO**  
+Desarrollo y diseño web
 📧 desarrollo@fullservices.com.co <br>
 🌐 [https://jacobo-forero.github.io/FULL-SERVICES/](https://jacobo-forero.github.io/FULL-SERVICES/)
 

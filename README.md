@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Static/Images/FULL-LOGO.png" alt="Full Services Logo" height="150"/>
+  <img src="FULL-LOGO.png" alt="Full Services Logo" height="150"/>
 </div>
 
 ---
